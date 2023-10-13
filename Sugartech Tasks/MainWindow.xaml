@@ -1,0 +1,47 @@
+﻿<Window x:Class="Sugartech_Tasks.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Sugartech_Tasks"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Tasks" Height="600" Width="500">
+    <Grid Background="WhiteSmoke">
+        
+        <Border MinHeight="530" MinWidth="450" CornerRadius="10" Background="White" Padding="30" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Border.Effect>
+                <DropShadowEffect Color="LightBlue" ShadowDepth="0" BlurRadius="60"/>
+            </Border.Effect>
+
+            <StackPanel>
+                <TextBlock FontFamily="Montserrat" FontWeight="Bold" FontSize="34" VerticalAlignment="Center" HorizontalAlignment="Center">Sugartech Tasks v1.0</TextBlock>
+
+                <Grid Height="440">
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+
+                    <TextBox x:Name="TaskName" materialDesign:HintAssist.Hint="Введите задачу:" FontFamily="Montserrat" FontSize="20" Margin="10" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Grid.ColumnSpan="3"></TextBox>
+                    <Button FontFamily="Montserrat" Click="AddTask" Margin="10" Grid.Row="5" Foreground="White">Создать</Button>
+                    <TextBlock Grid.ColumnSpan="3" FontFamily="Montserrat" FontWeight="Medium" FontSize="25" VerticalAlignment="Center" Grid.Row="1" >Задачи:</TextBlock>
+                    <ListBox FontSize="20" FontFamily="Montserrat" x:Name="ListOfTasks" Grid.Row="2" Grid.ColumnSpan="3" Grid.RowSpan="3">
+                    </ListBox>
+
+                    <Button FontFamily="Montserrat" Click="DelTask" Margin="10" Grid.Row="5" Foreground="White" Grid.Column="1">Удалить</Button>
+                </Grid> 
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

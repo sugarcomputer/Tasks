@@ -1,0 +1,27 @@
+C:\Users\Isaak\source\repos\Sugartech Tasks\Sugartech Tasks\bin\Debug\net6.0-windows\Sugartech Tasks.exe
+C:\Users\Isaak\source\repos\Sugartech Tasks\Sugartech Tasks\bin\Debug\net6.0-windows\Sugartech Tasks.deps.json
+C:\Users\Isaak\source\repos\Sugartech Tasks\Sugartech Tasks\bin\Debug\net6.0-windows\Sugartech Tasks.runtimeconfig.json
+C:\Users\Isaak\source\repos\Sugartech Tasks\Sugartech Tasks\bin\Debug\net6.0-windows\Sugartech Tasks.dll
+C:\Users\Isaak\source\repos\Sugartech Tasks\Sugartech Tasks\bin\Debug\net6.0-windows\Sugartech Tasks.pdb
+C:\Users\Isaak\source\repos\Sugartech Tasks\Sugartech Tasks\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Isaak\source\repos\Sugartech Tasks\Sugartech Tasks\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Isaak\source\repos\Sugartech Tasks\Sugartech Tasks\obj\Debug\net6.0-windows\Sugartech Tasks_MarkupCompile.cache
+C:\Users\Isaak\source\repos\Sugartech Tasks\Sugartech Tasks\obj\Debug\net6.0-windows\Sugartech Tasks_MarkupCompile.lref
+C:\Users\Isaak\source\repos\Sugartech Tasks\Sugartech Tasks\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Isaak\source\repos\Sugartech Tasks\Sugartech Tasks\obj\Debug\net6.0-windows\Sugartech Tasks.g.resources
+C:\Users\Isaak\source\repos\Sugartech Tasks\Sugartech Tasks\obj\Debug\net6.0-windows\Sugartech Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaak\source\repos\Sugartech Tasks\Sugartech Tasks\obj\Debug\net6.0-windows\Sugartech Tasks.AssemblyInfoInputs.cache
+C:\Users\Isaak\source\repos\Sugartech Tasks\Sugartech Tasks\obj\Debug\net6.0-windows\Sugartech Tasks.AssemblyInfo.cs
+C:\Users\Isaak\source\repos\Sugartech Tasks\Sugartech Tasks\obj\Debug\net6.0-windows\Sugartech Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Isaak\source\repos\Sugartech Tasks\Sugartech Tasks\obj\Debug\net6.0-windows\Sugartech Tasks.dll
+C:\Users\Isaak\source\repos\Sugartech Tasks\Sugartech Tasks\obj\Debug\net6.0-windows\refint\Sugartech Tasks.dll
+C:\Users\Isaak\source\repos\Sugartech Tasks\Sugartech Tasks\obj\Debug\net6.0-windows\Sugartech Tasks.pdb
+C:\Users\Isaak\source\repos\Sugartech Tasks\Sugartech Tasks\obj\Debug\net6.0-windows\Sugartech Tasks.genruntimeconfig.cache
+C:\Users\Isaak\source\repos\Sugartech Tasks\Sugartech Tasks\obj\Debug\net6.0-windows\ref\Sugartech Tasks.dll
+C:\Users\Isaak\source\repos\Sugartech Tasks\Sugartech Tasks\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Isaak\source\repos\Sugartech Tasks\Sugartech Tasks\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Isaak\source\repos\Sugartech Tasks\Sugartech Tasks\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Isaak\source\repos\Sugartech Tasks\Sugartech Tasks\obj\Debug\net6.0-windows\Sugartech Tasks.csproj.AssemblyReference.cache
+C:\Users\Isaak\source\repos\Sugartech Tasks\Sugartech Tasks\obj\Debug\net6.0-windows\App.baml
+C:\Users\Isaak\source\repos\Sugartech Tasks\Sugartech Tasks\obj\Debug\net6.0-windows\Sugartech Tasks.csproj.CopyComplete
+C:\Users\Isaak\source\repos\Sugartech Tasks\Sugartech Tasks\obj\Debug\net6.0-windows\Sugartech Tasks_Content.g.cs
